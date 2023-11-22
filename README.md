@@ -38,5 +38,6 @@ História de usuário:
     - Na criação de conta como funcionario, ele precisarrá informar seu CPF, Nome, Email e senha.
 
 2 - "Como funcionário, quero consultar o estoque de produtos"
+
     - Verificar a disponibilidade de produtos em estoque.
     - Visualizar informações como quantidade disponível, código e nome do produto.
