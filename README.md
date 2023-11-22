@@ -2,5 +2,5 @@
 Sistema de Gerenciamento de preços e estoque
 
 # topicos de desenvolvimento
-- [requisitos]()
-- [modelagem do banco de dados]()
+- [Requisitos](https://github.com/Carlos98770/SistemaDeGerenciamento/blob/modelagem_bd/topicos/requisitos.md)
+- [Modelagem do banco de dados](https://github.com/Carlos98770/SistemaDeGerenciamento/blob/modelagem_bd/topicos/modelagem_bd.md)
