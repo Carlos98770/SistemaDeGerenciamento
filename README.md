@@ -27,19 +27,19 @@ História de usuário:
     
 4 - "Como administrador, quero visualizar o histórico de transações de cada cliente"
 
-   - Acesso a um histórico detalhado de compras de cada cliente.
-   - Informações sobre os produtos adquiridos, datas e valores das transações.
+    - Acesso a um histórico detalhado de compras de cada cliente.
+    - Informações sobre os produtos adquiridos, datas e valores das transações.
 
 5 - "Como administrador, quero gerenciar o estoque de produtos"
 
-   - Adicionar novos produtos ao estoque, especificando quantidade, código, nome e preço.
-   - Atualizar a quantidade disponível de cada produto.
-   - Visualizar o status do estoque, incluindo produtos em baixa quantidade.
+    - Adicionar novos produtos ao estoque, especificando quantidade, código, nome e preço.
+    - Atualizar a quantidade disponível de cada produto.
+    - Visualizar o status do estoque, incluindo produtos em baixa quantidade.
 
 6 - "Como administrador, quero visualizar relatórios de vendas"
 
-   - Acesso a relatórios que apresentem o desempenho de vendas ao longo do tempo.
-   - Informações como total de vendas, produtos mais vendidos e clientes mais frequentes.
+    - Acesso a relatórios que apresentem o desempenho de vendas ao longo do tempo.
+    - Informações como total de vendas, produtos mais vendidos e clientes mais frequentes.
 
 
 ### Funcionário
