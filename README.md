@@ -41,3 +41,6 @@ História de usuário:
 
     - Verificar a disponibilidade de produtos em estoque.
     - Visualizar informações como quantidade disponível, código e nome do produto.
+
+# Modelagem do Banco 
+![Modelagem do banco de dados]()
