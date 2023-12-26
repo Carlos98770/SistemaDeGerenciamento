@@ -44,3 +44,6 @@ História de usuário:
 
 # Modelagem do Banco 
 ![Modelagem do banco de dados](https://github.com/Carlos98770/SistemaDeGerenciamento/blob/main/ModelSystem.png)
+
+## Usando o Postgresql
+
