@@ -45,9 +45,9 @@ create table manager_client(
     create_date date
 );
 
-create table manager_Product(
+create table manager_product(
     id_manager INTEGER REFERENCES managers(id),
-    id_product INTEGER REFERENCES Products(id)
+    id_product INTEGER REFERENCES products(id)
 );
 
 create table employee_order(
@@ -55,8 +55,8 @@ create table employee_order(
     id_order INTEGER REFERENCES orders(id)
 );
 
-create table Product_order(
-    id_product INTEGER REFERENCES Products(id),
+create table product_order(
+    id_product INTEGER REFERENCES products(id),
     id_order INTEGER REFERENCES orders(id)
 );
 
